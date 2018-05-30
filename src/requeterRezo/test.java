@@ -18,6 +18,8 @@ public class test {
          Mot mot = rezo.requete("cocotier");
          System.out.println(mot);
          //rezo.sauvegarder();  
+         
+         //Test de test
              
          
     }
